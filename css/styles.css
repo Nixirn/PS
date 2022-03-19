@@ -1,0 +1,20 @@
+body {
+    background-color: #C0FEFC;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: #3EDBF0;
+    width: 10%;
+}
+
+h1 {
+    color: #04009A;
+    font-family: monospace;
+    text-shadow: 4px 4px 5px #77ACF1;
+} 
+
+h3 {
+    color: #77ACF1;
+} 
